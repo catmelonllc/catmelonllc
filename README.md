@@ -1,9 +1,3 @@
-<!--
-Theme: Pastel green and dark colors
-Font: Roboto Mono, monospace as fallback (add via Google Fonts or local if possible)
-Image references: See Images 1, 2, 3 at the end
--->
-
 <div align="center" style="font-family:'Roboto Mono', monospace;">
 
 <img src="IMAGE_1_URL" alt="Proton Cat Banner" style="width:100%;max-width:700px;"><br>
